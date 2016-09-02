@@ -3,10 +3,10 @@
 
 
 ## capital
-
+Hanoi
  
 ## official language
-
+Vietnamese
 
 ## interesting trivia
 
