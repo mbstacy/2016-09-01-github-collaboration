@@ -1,6 +1,6 @@
 ##Sri_Lanka
 ## population
-20,000,000
+20 million
 
 ## capital
 Colombo
