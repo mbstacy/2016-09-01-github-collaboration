@@ -3,7 +3,7 @@
 4.6 million
 
 ## capital
-New Zealand
+Wellington
  
 ## official language
 English
