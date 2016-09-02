@@ -3,10 +3,10 @@
 unknown
 
 ## capital
-Ankara
+Budapest
  
 ## official language
-Turkish
+Hungarian
 
 ## interesting trivia
 trivia goes here
