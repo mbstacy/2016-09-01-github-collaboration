@@ -9,6 +9,7 @@ Brasilia
 Portuguese
 
 ## interesting trivia
-sexy ass peeps
+fun
+
 
 
