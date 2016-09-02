@@ -3,7 +3,7 @@
 
 
 ## capital
-
+Beijing
  
 ## official language
 
